@@ -1,0 +1,463 @@
+1630200139357	geckodriver	INFO	Listening on 127.0.0.1:57883
+1630200142348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tunght\\AppData\\Local\\Temp\\rust_mozprofilezg4gnP"
+1630200143561	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\tunght\\AppData\\Local\\Temp\\rust_mozprofilezg4gnP\\search.json.mozlz4", (void 0)))
+1630200152862	Marionette	INFO	Listening on port 57891
+1630200153301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://nguyenvanhieu.vn/, line 1211: TypeError: document.querySelector(...) is null
+1630200175562	Marionette	INFO	Stopped listening on port 57891
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\tunght\AppData\Local\Temp\rust_mozprofilezg4gnP\protections.sqlite
+1630201554837	geckodriver	INFO	Listening on 127.0.0.1:58133
+1630201557848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tunght\\AppData\\Local\\Temp\\rust_mozprofile9QRliZ"
+1630201558786	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\tunght\\AppData\\Local\\Temp\\rust_mozprofile9QRliZ\\search.json.mozlz4", (void 0)))
+1630201564297	Marionette	INFO	Listening on port 58141
+1630201564427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://finance.vietstock.vn/bundles/home/js?v=P0p94OPFm5iWaL5lXbsIk8Wde0iBqGhmWv5Paa9H5MU1, line 1: ReferenceError: _chartData is not defined
+JavaScript error: https://finance.vietstock.vn/bundles/home/js?v=P0p94OPFm5iWaL5lXbsIk8Wde0iBqGhmWv5Paa9H5MU1, line 1: Error: Highcharts error #13: www.highcharts.com/errors/13
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/10859527352444133174/index.html#t=2962530847743984413&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 253: TypeError: studio.Enabler is undefined
+console.warn: "Resource  of root-node was not found."
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle34 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.child4/domnode37 from: server0.conn0.child4/domnode37", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error writing request: getGrids"
+console.warn: "Resource  of root-node was not found."
+JavaScript error: https://finance.vietstock.vn/bundles/home/js?v=P0p94OPFm5iWaL5lXbsIk8Wde0iBqGhmWv5Paa9H5MU1, line 1: ReferenceError: _chartData is not defined
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1043"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1043:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:620:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1043, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1043"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1043:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:620:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1043, column: 0
+console.error: ({})
+JavaScript error: https://finance.vietstock.vn/bundles/home/js?v=P0p94OPFm5iWaL5lXbsIk8Wde0iBqGhmWv5Paa9H5MU1, line 1: Error: Highcharts error #13: www.highcharts.com/errors/13
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1043"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1043:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:620:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1043, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1043"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1043:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:620:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1043, column: 0
+console.error: ({})
+JavaScript error: resource:///modules/UrlbarUtils.jsm, line 816: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIEffectiveTLDService.getKnownPublicSuffixFromHost]
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1630201984172	Marionette	INFO	Stopped listening on port 58141
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+tock.vn/bundles/home/js?v=P0p94OPFm5iWaL5lXbsIk8Wde0iBqGhmWv5Paa9H5MU1, line 1: Error: Highcharts error #13: www.highcharts.com/errors/13
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1630201790271	Marionette	INFO	Stopped listening on port 58295
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002E,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1630202408345	geckodriver	INFO	Listening on 127.0.0.1:58529
+1630202411361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tunght\\AppData\\Local\\Temp\\rust_mozprofile23x7cH"
+1630202412096	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\tunght\\AppData\\Local\\Temp\\rust_mozprofile23x7cH\\search.json.mozlz4", (void 0)))
+1630202416932	Marionette	INFO	Listening on port 58539
+1630202417434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://finance.vietstock.vn/bundles/home/js?v=P0p94OPFm5iWaL5lXbsIk8Wde0iBqGhmWv5Paa9H5MU1, line 1: ReferenceError: _chartData is not defined
+JavaScript error: https://finance.vietstock.vn/bundles/home/js?v=P0p94OPFm5iWaL5lXbsIk8Wde0iBqGhmWv5Paa9H5MU1, line 1: Error: Highcharts error #13: www.highcharts.com/errors/13
+1630202458929	Marionette	INFO	Stopped listening on port 58539
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1630202543836	geckodriver	INFO	Listening on 127.0.0.1:58678
+1630202546858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tunght\\AppData\\Local\\Temp\\rust_mozprofileBt6JHv"
+1630202547694	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\tunght\\AppData\\Local\\Temp\\rust_mozprofileBt6JHv\\search.json.mozlz4", (void 0)))
+1630202553163	Marionette	INFO	Listening on port 58686
+1630202553418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://finance.vietstock.vn/bundles/home/js?v=P0p94OPFm5iWaL5lXbsIk8Wde0iBqGhmWv5Paa9H5MU1, line 1: ReferenceError: _chartData is not defined
+JavaScript error: https://finance.vietstock.vn/bundles/home/js?v=P0p94OPFm5iWaL5lXbsIk8Wde0iBqGhmWv5Paa9H5MU1, line 1: Error: Highcharts error #13: www.highcharts.com/errors/13
+1630202571763	Marionette	INFO	Stopped listening on port 58686
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630202730723	geckodriver	INFO	Listening on 127.0.0.1:58853
+1630202733746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tunght\\AppData\\Local\\Temp\\rust_mozprofileDc52Jd"
+1630202734477	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\tunght\\AppData\\Local\\Temp\\rust_mozprofileDc52Jd\\search.json.mozlz4", (void 0)))
+1630202740430	Marionette	INFO	Listening on port 58861
+1630202740487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://finance.vietstock.vn/bundles/home/js?v=P0p94OPFm5iWaL5lXbsIk8Wde0iBqGhmWv5Paa9H5MU1, line 1: ReferenceError: _chartData is not defined
+JavaScript error: https://finance.vietstock.vn/bundles/home/js?v=P0p94OPFm5iWaL5lXbsIk8Wde0iBqGhmWv5Paa9H5MU1, line 1: Error: Highcharts error #13: www.highcharts.com/errors/13
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/13245103789825690369/index.html#t=17383372877523313596&p=https%3A%2F%2F1492d87ea1bf8062869ef5e4ead0aaa2.safeframe.googlesyndication.com, line 252: TypeError: studio.Enabler is undefined
+1630202808010	Marionette	INFO	Stopped listening on port 58861
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002E,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1630202940277	geckodriver	INFO	Listening on 127.0.0.1:59021
+1630202943287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tunght\\AppData\\Local\\Temp\\rust_mozprofileoekdQ2"
+1630202944138	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\tunght\\AppData\\Local\\Temp\\rust_mozprofileoekdQ2\\search.json.mozlz4", (void 0)))
+1630202949719	Marionette	INFO	Listening on port 59029
+1630202949861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://finance.vietstock.vn/bundles/home/js?v=P0p94OPFm5iWaL5lXbsIk8Wde0iBqGhmWv5Paa9H5MU1, line 1: ReferenceError: _chartData is not defined
+JavaScript error: https://finance.vietstock.vn/bundles/home/js?v=P0p94OPFm5iWaL5lXbsIk8Wde0iBqGhmWv5Paa9H5MU1, line 1: Error: Highcharts error #13: www.highcharts.com/errors/13
+1630202972986	Marionette	INFO	Stopped listening on port 59029
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002E,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1630205089059	geckodriver	INFO	Listening on 127.0.0.1:58177
+1630205092083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tunght\\AppData\\Local\\Temp\\rust_mozprofileQbD0yj"
+1630205095247	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\tunght\\AppData\\Local\\Temp\\rust_mozprofileQbD0yj\\search.json.mozlz4", (void 0)))
+1630205102711	Marionette	INFO	Listening on port 58185
+1630205103202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://finance.vietstock.vn/bundles/home/js?v=P0p94OPFm5iWaL5lXbsIk8Wde0iBqGhmWv5Paa9H5MU1, line 1: ReferenceError: _chartData is not defined
+JavaScript error: https://finance.vietstock.vn/bundles/home/js?v=P0p94OPFm5iWaL5lXbsIk8Wde0iBqGhmWv5Paa9H5MU1, line 1: Error: Highcharts error #13: www.highcharts.com/errors/13
+1630205136794	Marionette	INFO	Stopped listening on port 58185
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1630205176040	geckodriver	INFO	Listening on 127.0.0.1:58337
+1630205179046	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tunght\\AppData\\Local\\Temp\\rust_mozprofileHRVZRi"
+1630205180018	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\tunght\\AppData\\Local\\Temp\\rust_mozprofileHRVZRi\\search.json.mozlz4", (void 0)))
+1630205186110	Marionette	INFO	Listening on port 58345
+1630205186584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://finance.vietstock.vn/bundles/home/js?v=P0p94OPFm5iWaL5lXbsIk8Wde0iBqGhmWv5Paa9H5MU1, line 1: ReferenceError: _chartData is not defined
+JavaScript error: https://finance.vietstock.vn/bundles/home/js?v=P0p94OPFm5iWaL5lXbsIk8Wde0iBqGhmWv5Paa9H5MU1, line 1: Error: Highcharts error #13: www.highcharts.com/errors/13
+1630205216425	Marionette	INFO	Stopped listening on port 58345
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002E,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630205231884	geckodriver	INFO	Listening on 127.0.0.1:58481
+1630205234870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tunght\\AppData\\Local\\Temp\\rust_mozprofileT8E9d7"
+1630205236027	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\tunght\\AppData\\Local\\Temp\\rust_mozprofileT8E9d7\\search.json.mozlz4", (void 0)))
+1630205243948	Marionette	INFO	Listening on port 58489
+1630205244398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://finance.vietstock.vn/bundles/home/js?v=P0p94OPFm5iWaL5lXbsIk8Wde0iBqGhmWv5Paa9H5MU1, line 1: ReferenceError: _chartData is not defined
+JavaScript error: https://finance.vietstock.vn/bundles/home/js?v=P0p94OPFm5iWaL5lXbsIk8Wde0iBqGhmWv5Paa9H5MU1, line 1: Error: Highcharts error #13: www.highcharts.com/errors/13
+1630205280607	Marionette	INFO	Stopped listening on port 58489
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002E,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1630205295267	geckodriver	INFO	Listening on 127.0.0.1:58625
+1630205298320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tunght\\AppData\\Local\\Temp\\rust_mozprofiletfsNNb"
+1630205299384	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\tunght\\AppData\\Local\\Temp\\rust_mozprofiletfsNNb\\search.json.mozlz4", (void 0)))
+1630205306304	Marionette	INFO	Listening on port 58633
+1630205306781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://finance.vietstock.vn/bundles/home/js?v=P0p94OPFm5iWaL5lXbsIk8Wde0iBqGhmWv5Paa9H5MU1, line 1: ReferenceError: _chartData is not defined
+JavaScript error: https://finance.vietstock.vn/bundles/home/js?v=P0p94OPFm5iWaL5lXbsIk8Wde0iBqGhmWv5Paa9H5MU1, line 1: Error: Highcharts error #13: www.highcharts.com/errors/13
+1630205313468	Marionette	INFO	Stopped listening on port 58633
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690014,name=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690014,name=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690014,name=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690014,name=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690014,name=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690014,name=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\tunght\AppData\Local\Temp\rust_mozprofiletfsNNb\protections.sqlite
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690014,name=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690014,name=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690014,name=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690014,name=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690022,name=PNecko::Msg_RequestContextAfterDOMContentLoaded) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

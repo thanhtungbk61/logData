@@ -1,0 +1,1 @@
+D:\all_save_note\seleniumV2\venv\Scripts\python.exe D:/all_save_note/seleniumV2/main.py
